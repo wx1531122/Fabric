@@ -1,3 +1,5 @@
+[中文版](./README_ZH.md)
+
 <div align="center">
     <a href="https://go.warp.dev/fabric" target="_blank">
         <sup>Special thanks to:</sup>
